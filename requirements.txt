@@ -1,3 +1,32 @@
+# Core App Libraries
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose
+passlib[bcrypt]
+
+# Streamlit Frontend
 streamlit
+requests
+python-dotenv
+
+# OCR and PDF Processing
+pytesseract
+Pillow
 PyPDF2
-teaseract
+PyMuPDF
+
+# LangChain and AI Models
+langchain
+langchain-community
+langchain-core
+langgraph
+langchain-together
+langchain-google-genai
+langchain-groq
+openai
+
+# Additional tools
+aiofiles
+email-validator
